@@ -1,0 +1,7 @@
+# Ignore large CSV files
+Dataset/*.csv
+*.csv
+
+# Ignore other large files
+*.xlsx
+*.xls
